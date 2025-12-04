@@ -54,8 +54,8 @@ main().catch((err) => console.error(err.message));
 
 =>users.csv
 id,email
-1,ayush@gmail.com
-2,vibhor@yahoo.com
+1,prashant@gmail.com
+2,ayush@yahoo.com
 3,sunny@gmail.com
 4,jatin@outlook.com
 5,karan@gmail.com
@@ -65,4 +65,5 @@ id,email
   "gmail.com": 3,
   "yahoo.com": 1,
   "outlook.com": 1
+
 }
