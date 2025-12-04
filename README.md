@@ -47,7 +47,7 @@ Log total duration and location of results.
 
 main().catch((err) => console.error(err.message)); Run main() and catch any errors to display in the console.
 
-4️⃣ Example Input (users.csv) id,email 1,mohit@gmail.com 2,ayush@yahoo.com 3,sunny@gmail.com 4,karan@outlook.com 5,mohit@gmail.com
+4️⃣ Example Input (users.csv) id,email 1,prashant@gmail.com 2,ayush@yahoo.com 3,sunny@gmail.com 4,karan@outlook.com 5,mohit@gmail.com
 
 5️⃣ Example Output (domains.json) { "gmail.com": 3, "yahoo.com": 1, "outlook.com": 1 }
 
